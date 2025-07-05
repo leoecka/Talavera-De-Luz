@@ -1,0 +1,13 @@
+<style>
+  body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: transparent;  /* Setzt den Hintergrund von <body> und <html> auf transparent */
+  }
+
+  canvas {
+    display: block;  /* Verhindert Scrollbars */
+    background: transparent;  /* Setzt den Hintergrund des Canvas auf transparent */
+  }
+</style>
